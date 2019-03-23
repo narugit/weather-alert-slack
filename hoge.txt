@@ -1,2 +1,0 @@
-webhookURL is here
-var webhookURL: string = "https://hooks.slack.com/services/xxxxxxxxxxxxxxxxxxxxxxxxxsfdsxxxxxx";
