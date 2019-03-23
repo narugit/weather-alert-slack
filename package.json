@@ -1,0 +1,17 @@
+{
+  "name": "weather-alert-slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/clasp": "^2.1.0",
+    "@types/google-apps-script": "0.0.39",
+    "tslint": "^5.14.0"
+  }
+}
