@@ -46,5 +46,15 @@ function scrape(place: string, url: string): string {
 
     Logger.log(precipitation);
 
-    return (place + ': (' + date + ') 降水量 ' + precipitation + 'mm');
+    if (precipitation !== '0.0') {
+        return (place + ': (' + date + ') 降水量 ' + precipitation + 'mm');
+    }
+
+    else if (precipitation === '0.0') {
+        return 'fine';
+    }
+
+    else {
+        return 'err';
+    }
 }
