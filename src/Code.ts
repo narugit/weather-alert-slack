@@ -1,5 +1,5 @@
 // 型定義
-var webhookURL: string = "https://hooks.slack.com/services/xxxxxxxxxxxxxxxxxxxxxxxxxxx
+var webhookURL: string = "https://hooks.slack.com/services/xxxxxxxxxxxxxxxxxxxxxxxxxxx";
 var username: string = "weather-bot";  // 通知時に表示されるユーザー名
 var icon: string = ":hatching_chick:";  // 通知時に表示されるアイコン
 // var datas: object[] = [
