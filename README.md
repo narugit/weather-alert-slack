@@ -14,4 +14,4 @@ This is a slack bot to alert raining.
 
 ## License
 
-[MIT](https://github.com/narugit/cAR/blob/master/LICENSE)
+[MIT](https://github.com/narugit/weather-alert-slack/blob/master/LICENSE)
